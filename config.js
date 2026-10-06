@@ -2,5 +2,5 @@
 self.CNC_CONFIG = {
   url: 'https://nizyupcbbdljbysruxdu.supabase.co',
   key: 'sb_publishable_mnYZc4KRYI7bBGC6uaOgNg_dvpxYTOJ',
-  version: '1.0-web',
+  version: '1.1',
 };
